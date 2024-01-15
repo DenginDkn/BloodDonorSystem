@@ -4,9 +4,9 @@ This repository contains the source code for the Blood Donor System application.
 
 ## Final Deployed URLs
 
-- [Add Blood](#) - Replace with the URL of the deployed "Add Blood" application.
-- [Create Donor](#) - Replace with the URL of the deployed "Create Donor" application.
-- [Request Blood](#) - Replace with the URL of the deployed "Request Blood" application.
+- [Add Blood to Bank](https://dengindkn-blood-donor-system-addblood.netlify.app)
+- [Create Donor](https://dengindkn-blood-donor-system-createdonor.netlify.app)
+- [Request Blood](https://dengindkn-blood-donor-system-requestblood.netlify.app)
 
 ## Design, Assumptions, and Issues
 
