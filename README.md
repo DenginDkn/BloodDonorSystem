@@ -12,16 +12,20 @@ This repository contains the source code for the Blood Donor System application.
 
 ### Design
 
-Explain the overall design of your Blood Donor System, including the structure of the front-end and back-end components. Describe any frameworks or libraries you used and the reasoning behind your choices.
+The Blood Donor System is designed as a web-based application to facilitate blood donation processes. The front-end is implemented using HTML, CSS, and JavaScript. The system follows a client-server architecture, with the client-side handling user interactions and the server-side managing data storage and retrieval.
 
 ### Assumptions
 
-List any assumptions you made during the development process. These could include assumptions about user behavior, system requirements, or other relevant factors.
+- Users have a basic understanding of the blood donation process.
+- The system is accessible to the public, with specific features requiring authorization (if applicable).
+- No backend server is used for simplicity.
 
 ### Issues Encountered
 
-Document any challenges or issues you encountered during the development of the Blood Donor System. Include how you addressed or mitigated these issues.
+- **Styling Consistency:** Ensuring consistent styling across different pages was challenging due to the absence of a front-end framework. This was addressed by creating a shared CSS file for common styles.
+- **Data Persistence:** As the system doesn't have a backend, data is not persisted between sessions. This limitation is intentional for the sake of simplicity.
 
 ## Data Models (ER Diagram)
 
-Include an Entity-Relationship (ER) diagram illustrating the data models used in your application. This could include entities like Donor, Blood Donation, etc., and their relationships.
+```plaintext
+Replace this text with your ER diagram, or include an image/link to it.
