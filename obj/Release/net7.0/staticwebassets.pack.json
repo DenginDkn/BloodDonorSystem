@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\10\\OneDrive - Yasar University\\Masaüstü\\BloodDonorSystem\\BloodDonorSystem\\wwwroot\\AddBlood.js",
+      "PackagePath": "staticwebassets\\AddBlood.js"
+    },
+    {
+      "Id": "C:\\Users\\10\\OneDrive - Yasar University\\Masaüstü\\BloodDonorSystem\\BloodDonorSystem\\wwwroot\\AddBloodToBank.html",
+      "PackagePath": "staticwebassets\\AddBloodToBank.html"
+    },
+    {
+      "Id": "C:\\Users\\10\\OneDrive - Yasar University\\Masaüstü\\BloodDonorSystem\\BloodDonorSystem\\wwwroot\\CreateQuery.js",
+      "PackagePath": "staticwebassets\\CreateQuery.js"
+    },
+    {
+      "Id": "C:\\Users\\10\\OneDrive - Yasar University\\Masaüstü\\BloodDonorSystem\\BloodDonorSystem\\wwwroot\\CreateQueryDonor.html",
+      "PackagePath": "staticwebassets\\CreateQueryDonor.html"
+    },
+    {
+      "Id": "C:\\Users\\10\\OneDrive - Yasar University\\Masaüstü\\BloodDonorSystem\\BloodDonorSystem\\wwwroot\\RequestBlood.html",
+      "PackagePath": "staticwebassets\\RequestBlood.html"
+    },
+    {
+      "Id": "C:\\Users\\10\\OneDrive - Yasar University\\Masaüstü\\BloodDonorSystem\\BloodDonorSystem\\wwwroot\\RequestBlood.js",
+      "PackagePath": "staticwebassets\\RequestBlood.js"
+    },
+    {
+      "Id": "C:\\Users\\10\\OneDrive - Yasar University\\Masaüstü\\BloodDonorSystem\\BloodDonorSystem\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.BloodDonorSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.BloodDonorSystem.props",
+      "PackagePath": "build\\BloodDonorSystem.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BloodDonorSystem.props",
+      "PackagePath": "buildMultiTargeting\\BloodDonorSystem.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.BloodDonorSystem.props",
+      "PackagePath": "buildTransitive\\BloodDonorSystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

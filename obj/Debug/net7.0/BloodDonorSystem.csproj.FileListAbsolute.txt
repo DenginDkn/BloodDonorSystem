@@ -1,0 +1,6 @@
+C:\Users\10\OneDrive - Yasar University\Masaüstü\BloodDonorSystem\BloodDonorSystem\bin\Debug\net7.0\BloodDonorSystem.exe
+C:\Users\10\OneDrive - Yasar University\Masaüstü\BloodDonorSystem\BloodDonorSystem\bin\Debug\net7.0\BloodDonorSystem.dll
+C:\Users\10\OneDrive - Yasar University\Masaüstü\BloodDonorSystem\BloodDonorSystem\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\10\OneDrive - Yasar University\Masaüstü\BloodDonorSystem\BloodDonorSystem\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\10\OneDrive - Yasar University\Masaüstü\BloodDonorSystem\BloodDonorSystem\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\10\OneDrive - Yasar University\Masaüstü\BloodDonorSystem\BloodDonorSystem\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
