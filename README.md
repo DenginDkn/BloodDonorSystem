@@ -25,6 +25,10 @@ The Blood Donor System is designed as a web-based application to facilitate bloo
 - **Styling Consistency:** Ensuring consistent styling across different pages was challenging due to the absence of a front-end framework. This was addressed by creating a shared CSS file for common styles.
 - **Data Persistence:** As the system doesn't have a backend, data is not persisted between sessions. This limitation is intentional for the sake of simplicity.
 
+### Project Description Video Link
+
+- [Youtube](https://www.youtube.com/watch?v=H0wBORQi654)
+
 - ## Data Models (ER Diagram)
 
 ```plaintext
@@ -40,7 +44,6 @@ The Blood Donor System is designed as a web-based application to facilitate bloo
  | Photo        |
  +--------------+
 
-## Project Description Video Link
 
-- [Youtube](https://www.youtube.com/watch?v=H0wBORQi654)
+
 
